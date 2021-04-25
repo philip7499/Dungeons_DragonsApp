@@ -1,0 +1,113 @@
+header{
+	background-image: url(https://assets.dicebreaker.com/dungeons-and-dragons-5E-players-handbook-art.jpg/BROK/resize/1920%3E/format/jpg/quality/80/dungeons-and-dragons-5E-players-handbook-art.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+    margin: 0;
+    padding: 0;
+    font-family: 'Cinzel', serif;
+}
+
+
+.loginbox{
+    width: 320px;
+    height: 550px;
+    background: rgba(255, 255, 255, 0.65);
+    box-shadow: 1px 1px 5px black; 
+    color:black;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.profilePic{
+    width: 320px;
+    height: 150;
+    border-radius: 50%;
+}
+
+
+h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.loginbox label{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+.loginbox small{
+    color: black;
+    font-size: 12px;
+}
+
+.loginbox input{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.button1{
+    background: url(../media/gold.jpg)  no-repeat center center;
+    color: black;
+    border: black;
+    font-size: 1.5rem;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 5px;
+}
+
+.button2{
+    background: url(../media/gold.jpg)  no-repeat center center;
+    color: black;
+    border: black;
+    font-size: 1.5rem;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 5px;
+    top: 50px;
+    left: 50px;
+}
+
+.loginbox a{
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 35px;
+    color: black;
+}
+
+.loginbox a:hover
+{
+    color: darkred;
+}
+
+.loader {
+    display: none;
+    top: 74%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+  }
+  
+  .loading {
+    border: 5px solid goldenrod;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border-top-color: black;
+    border-left-color:black;
+    animation: spin 1s infinite ease-in;
+  }
+  
+  @keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+  
+    100% {
+      transform: rotate(360deg);
+    }
+  }

@@ -1,0 +1,70 @@
+@media screen and (max-width: 600px){
+    .hide{
+        display: none;
+        
+    }
+    
+   
+    
+    
+}
+
+@media screen and (min-width: 600px){
+   
+   header #imgTitleMenu{
+    margin-top: 5px; ;
+}
+   header #imgTitleMenu img{
+    width: 600px;
+    height: 200px;  
+}
+    .builtCharacter h1 a{
+        padding: 20px;
+    }
+    
+    .loginSignup div {
+    padding: 20px 24px;
+    padding-bottom: 35px;
+    }
+    
+    #informationText{
+        padding: 0% 15%;
+        padding-top: 3%;
+  
+    }
+    .loginSignup{
+    padding-bottom: 35px;
+}
+    
+    /*BuildCharacter Page*/
+    .buildCharacterH1{
+       font-size: 2.2rem;
+    }
+    [type=radio] + img {
+        width: 80px
+    }
+    fieldset{
+        padding: 10px;
+        width: 80%;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    
+    /*My Characters pages*/
+    #myCharacters{
+    width: 70%;
+        justify-content: space-around;
+    }
+}
+    
+    
+    
+@media screen and (min-width: 800px){
+    h1{
+        letter-spacing: 155px;
+    }
+        
+    #myCharacters{
+        width: 50%;
+    }    
+}
