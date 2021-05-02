@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4efcef6-7bcf-495c-880e-fd97231aa3ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/project zip/Dungeons-DragonsApp-main/DungeonsDragons/DungeonsDragons/DiceRoller.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DicebotFunctions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/BuildCharacter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/css/BuildCharacter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/css/myCharacters.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Background/back_acolyte.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Background/back_criminel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Background/back_noble.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Background/back_peuple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Background/back_sage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Background/back_soldat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Class/class_barbare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Class/class_barde.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Class/class_druide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Class/class_ensorceleur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Class/class_guerrier.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Class/class_magicien.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Class/class_moine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Class/class_paladin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Class/class_pretre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Class/class_rodeur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Class/class_roublard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Class/class_sorcier.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Race/race_demielfe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Race/race_demiorc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Race/race_drakeide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Race/race_elfe1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Race/race_gnome2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Race/race_halfelin2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Race/race_humain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Race/race_nain1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/Race/race_tieffelin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/backgroundHomepage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/buildCharacterButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/iconD&amp;D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/texture.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/media/titleD&amp;D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonsDragons/DungeonsDragons/myCharacters.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rfGCWvk1q4pTZgG1CgvCg75oqe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ngtAssignment1/public/styles.css" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Software_Eng_Project\project zip\Dungeons-DragonsApp-main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Software_Eng_Project/project zip/Dungeons-DragonsApp-main/DungeonsDragons/DungeonsDragons/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4efcef6-7bcf-495c-880e-fd97231aa3ef" name="Default Changelist" comment="" />
+      <created>1619359605374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619359605374</updated>
+      <workItem from="1619359607247" duration="6162000" />
+      <workItem from="1619374681597" duration="4269000" />
+      <workItem from="1619888633670" duration="8517000" />
+      <workItem from="1619958310215" duration="594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="207" y="139" key="FileChooserDialogImpl" timestamp="1619891035409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="207" y="139" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1619891035409" />
+  </component>
+</project>

@@ -1,0 +1,36 @@
+html {
+    font-family: 'Cinzel', serif;
+    background-color: 		#2f4f4f;
+    font-size: 80%;
+    letter-spacing: 1px;
+}
+    diceButton {
+        padding:2.5% 5% ;
+
+        font-size: 1.5rem;
+        box-shadow: 10px 10px 10px black;
+        border-radius: 5px;
+        background:url(../media/D20ButtonSymbol.png)  no-repeat center center;
+        background-size:100% 100%;
+        letter-spacing: 6px;
+    }
+
+.column {
+    float: left;
+    width: 16%;
+}
+
+.commentbox{
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    display: block;
+}
+
+.handle{
+    width: 250px;
+    margin: 0 auto;
+    display: block;
+}
+
+

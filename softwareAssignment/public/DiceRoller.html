@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <script>
+        var roll;
+        var rollPlus;
+        var rolls=[];
+        var rollsPlus=[];
+        var rollTotal=0;
+        var i;
+
+
+        function miscDice(noSides, noDice, plus)
+        {
+            rolls = [];
+            rollsPlus=[];
+            rollTotal=0;
+            plus=parseInt(plus);
+            for (i=0; i<noDice;i++) {
+                roll = parseInt(((Math.random() * noSides) + 1)<<0);
+                rolls.push(roll);
+                rollPlus = roll + plus;
+                rollsPlus.push(rollPlus);
+                rollTotal=rollTotal+rollPlus;
+            }
+            if (noDice>1) {
+                alert("You rolled " + rolls + " with modifiers that's " + rollsPlus + " in total you got " + rollTotal);
+            }
+            else
+            {
+                alert("You rolled "+ rolls + " with your modifier that's " +rollsPlus);
+            }
+
+        }
+    </script>
+    <meta charset="UTF-8">
+    <title>Dice Bot</title>
+    <link rel="stylesheet" href="css/DiceStyle.css">
+    <link rel='stylesheet' href='css/DiceStyle.css' />
+
+</head>
+<body>
+
+<div class="card diceButton column">
+    <img src="media/D20ButtonSymbol.png" style="width:40%; height: 40%;" class="button" onclick='miscDice(20,1,0)' >
+<p class="card-text-center"><pre>   Roll D20</pre></p>
+</div>
+
+
+
+<div class="card diceButton column">
+    <img src="media/D12ButtonSymbol.png" style="width:40%; height: 40%;" class="button" onclick='miscDice(12,1,0)' >
+    <p class="card-text-center"><pre>   Roll D12</pre></p>
+</div>
+
+
+
+<div class="card diceButton column">
+    <img src="media/D10ButtonSymbol.png" style="width:40%; height: 40%;" class="button" onclick='miscDice(10,1,0)' >
+    <p class="card-text-center"><pre>   Roll D10</pre></p>
+</div>
+
+
+
+<div class="card diceButton column">
+    <img src="media/D8ButtonSymbol.png" style="width:40%; height: 40%;" class="button" onclick='miscDice(8,1,0)' >
+    <p class="card-text-center"><pre>    Roll D8</pre></p>
+</div>
+
+
+<div class="card diceButton column">
+    <img src="media/D6ButtonSymbol.png" style="width:40%; height: 40%;" class="button" onclick='miscDice(6,1,0)' >
+    <p class="card-text-center"><pre>    Roll D6</pre></p>
+</div>
+
+
+<div class="card diceButton column">
+    <img src="media/D4ButtonSymbol.png" style="width:40%; height: 40%;" class="button" onclick='miscDice(4,1,0)' >
+    <p class="card-text-center "><pre>    Roll D4</pre> </p>
+</div>
+
+<div class="card">
+    <div class="handle">
+        <input id="noDice" placeholder="How many dice to roll"> <br>
+    </div>
+    <div class="handle">
+        <input id="DieType" placeholder="How many sides on the die"> <br>
+    </div>
+    <div class="handle">
+        <input id="bonus" placeholder="What do you add to this roll"> <br>
+    </div>
+    <button class="button" onclick='miscDice(document.getElementById("DieType").value,document.getElementById("noDice").value,document.getElementById("bonus").value)'> Roll </button>
+</div>
+</body>
+
+</html>
+
