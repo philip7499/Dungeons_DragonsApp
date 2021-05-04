@@ -50,6 +50,11 @@
         margin-bottom: 30px;
     }
     
+    .builtCharacter div{
+    
+    padding-top: 45px;
+ }
+    
     /*My Characters pages*/
     #myCharacters{
     width: 70%;
@@ -60,9 +65,7 @@
     
     
 @media screen and (min-width: 800px){
-    h1{
-        letter-spacing: 155px;
-    }
+    
         
     #myCharacters{
         width: 50%;
