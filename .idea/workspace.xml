@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70d772a6-88ae-4a72-98db-8f948c2a3f9e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/softwareAssignment/public/HowToPlay.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/softwareAssignment/public/css/HowToPlayStyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Older Stuff/DungeonsDragons/DungeonsDragons/DungeonsDragons" beforeDir="false" afterPath="$PROJECT_DIR$/Older Stuff/DungeonsDragons/DungeonsDragons/DungeonsDragons" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/softwareAssignment/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/softwareAssignment/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/softwareAssignment/public/css/index.css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -62,6 +66,8 @@
       <updated>1619976478259</updated>
       <workItem from="1619976480079" duration="10577000" />
       <workItem from="1620040395008" duration="28575000" />
+      <workItem from="1620144947748" duration="8000" />
+      <workItem from="1620248628398" duration="10083000" />
     </task>
     <servers />
   </component>
@@ -81,6 +87,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1620249087910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620249087910" />
     <state x="770" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1620053485637">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

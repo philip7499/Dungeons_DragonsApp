@@ -1,0 +1,58 @@
+html{
+    font-family: 'Papyrus', fantasy;
+    font-weight: bold;
+    background: url(../media/RulesBackground.jpeg) no-repeat center center;
+    background-size: cover;
+}
+
+
+.heading{
+    font-size:130%;
+    color: darkblue;
+    text-decoration: underline;
+    text-align: center;
+    width: 640px;
+    padding: 10px;
+    margin-left: 28%;
+}
+.Intro {
+    text-align: center;
+    width: 640px;
+    padding: 10px;
+    margin-left: 30%;
+}
+
+.DiceRules {
+    float: left;
+    text-align: center;
+    width: 33.33%;
+
+}
+
+.dndIcon {
+    float: left;
+    width: 33.33%;
+
+}
+
+.centreImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width:50%;
+}
+.Abilities{
+    float:left;
+    text-align: center;
+    width: 33.33%;
+
+}
+
+.skills {
+    text-align: center;
+    width: 640px;
+    padding: 10px;
+    margin-left: 30%;
+    margin-top: 300px;
+}
