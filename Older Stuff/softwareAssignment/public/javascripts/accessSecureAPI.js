@@ -36,7 +36,7 @@ function getSecureAPI(){
                 //response.innerHTML = xhr.responseText;
 				}
 				} else {
-					response.innerHTML = "Unauthorized to view this content. Log In or Sign Up to view your characters";
+					response.innerHTML = "Unauthorized to view this content";
 					console.log('Error: ' + xhr.status); // An error occurred during the request.
 					}
 					};

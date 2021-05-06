@@ -1,0 +1,60 @@
+    <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="DungeonsDragons">
+        <title>DungeonsDragons</title>
+        
+        <link rel="stylesheet" href="css/myCharacters.css">
+        <link rel="stylesheet" href="css/responsive.css">
+        
+        <!--Icon Page Web-->
+        <link rel="icon" href="media/iconD&D.png" />
+
+        <!-- Mobile Stuff -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+        
+        <!-- GoogleFont -->
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@800&display=swap" rel="stylesheet">
+        
+         <!-- JavaScript -->
+        <script src=".."></script>
+		<script src="javascripts/accessSecureAPI.js"></script>
+    </head>
+
+    <body>
+	<!-- Firebase App (the core Firebase SDK) is always required and must be listed first -->
+        <script src="/__/firebase/8.3.0/firebase-app.js"></script>
+        
+        <!-- If you enabled Analytics in your project, add the Firebase SDK for Analytics -->
+        <script src="/__/firebase/8.3.0/firebase-analytics.js"></script>
+        
+        <!-- Add Firebase products that you want to use -->
+        <script src="/__/firebase/8.3.0/firebase-auth.js"></script>
+        
+        <script src="/__/firebase/8.3.0/firebase-firestore.js"></script>
+        
+        <!-- Initialize Firebase -->
+        <script src="/__/firebase/init.js"></script>
+		
+		<script>getSecureAPI()</script>
+		
+        <header id="headerMyCharacters">
+            <div id="WelcomingBar">
+             <p>Hello <em>gamer123</em>,</p>  
+             <button onclick="logout()" >LOG OUT</button> 
+            </div>
+            <h1>MY CHARACTERS</h1>
+             <h2><a href="BuildCharacter.html" class="newCharacter">CREATE A NEW CHARACTER</a></h2>
+        </header>
+        <div id="myCharacters">
+			<div id="response">
+          
+          
+			</div>
+        </div>
+       
+    </body>
+</html>
